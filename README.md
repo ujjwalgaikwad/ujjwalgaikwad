@@ -3,13 +3,9 @@
 <h3 align="center">Frontend Engineer building modern web applications with React, Next.js & AI</h3>
 
 *  Building **modern, responsive and user-focused web applications** with React, Next.js & TypeScript
-*  Exploring **AI-powered applications, LLM APIs and AI integrations**
-*  Interested in **performance, clean UI/UX, accessibility and scalable frontend architecture**
-*  Comfortable working with **Node.js, REST APIs, MongoDB and full-stack applications**
-*  Continuously learning new technologies and improving my development skills
-*  I enjoy turning ideas into **simple, useful and polished products**
+*  Currently learning and experimenting with AI, LLM APIs, RAG and AI agents
 
-<h3 align="left">Currently exploring:</h3>
+<!-- <h3 align="left">Currently exploring:</h3> -->
 
 **AI Engineering • LLM APIs • AI SDKs • RAG • AI Agents • Next.js • TypeScript • Modern UI/UX**
 
