@@ -7,8 +7,6 @@
 
 <!-- <h3 align="left">Currently exploring:</h3> -->
 
-**AI Engineering • LLM APIs • AI SDKs • RAG • AI Agents • Next.js • TypeScript • Modern UI/UX**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/ujjwalgaekwad" target="_blank">
